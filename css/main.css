@@ -1,0 +1,114 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v107_101 {
+  width: 100%;
+  height: 900px;
+  background: rgba(0,0,0,1);
+  margin: 10px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v107_102 {
+  width: 100%;
+  height: 450px;
+  background: url("../images/v107_102.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 69px;
+  opacity: 1;
+  position: absolute;
+  top: 178px;
+  left: 0px;
+  overflow: hidden;
+}
+.v107_103 {
+  width: 613px;
+  height: 450px;
+  background: url("../images/v107_103.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 59px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 72px;
+  overflow: hidden;
+}
+.v107_104 {
+  width: 613px;
+  height: 337px;
+  background: url("../images/v107_104.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 20px;
+  overflow: hidden;
+}
+.v107_105 {
+  width: 613px;
+  color: rgba(255,255,255,1);
+  position: relative;
+  top: 0px;
+  left: 0px;
+  font-family: Söhne Breit Test;
+  font-weight: Extrafett;
+  font-size: 73px;
+  opacity: 1;
+  text-align: left;
+}
+.v107_106 {
+  width: 509px;
+  color: rgba(165,168,171,1);
+  position: absolute;
+  top: 270px;
+  left: 0px;
+  font-family: Outfit;
+  font-weight: Regular;
+  font-size: 25px;
+  opacity: 1;
+  text-align: left;
+}
+.v107_107 {
+  width: 254px;
+  height: 54px;
+  background: url("../images/v107_107.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 396px;
+  left: 20px;
+  overflow: hidden;
+}
+.name {
+  color: #fff;
+}
+.v107_109 {
+  width: 613px;
+  height: 450px;
+  background: url("../images/v107_109.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 755px;
+  overflow: hidden;
+}
+.name {
+  color: #fff;
+}
